@@ -1,0 +1,5 @@
+.idea/
+.gradio/
+.venv/
+audio_inputs/
+audio_outputs/
